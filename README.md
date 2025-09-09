@@ -3,14 +3,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=700&color=00F7FF&width=700&lines=%F0%9F%92%BB+Mark+Anthony+Garado+%F0%9F%92%BB;%F0%9F%92%BB+Tech+Explorer+%26+Builder+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
-<div align="center" style="border-bottom: 1px solid #ccc; width: 60%; margin: 12px auto;"></div>
+<div align="center" style="border-bottom: 1px solid #ccc; margin: 24px 0;"></div>
 
 - 🌐 Web Development Enthusiast
 - ⚡ Focused on creating user-friendly, modern applications 
 - 🚀 Exploring both Frontend & Backend technologies
 - 🖥 Enjoys building clean, functional, and modern web apps  
 
-<div align="center" style="border-bottom: 1px solid #ccc; margin: 24px 0;"></div>
+<div align="center" style="border-bottom: 1px solid #ccc; width: 60%; margin: 12px auto;"></div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<div align="center" style="border-bottom: 1px solid #ccc; margin: 24px 0;"></div>
+<div align="center" style="border-bottom: 1px solid #ccc; width: 60%; margin: 12px auto;"></div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codewmarx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
