@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00F7FF&width=650&lines=Mark+Anthony+Garado;Tech+Explorer+%26+Builder" alt="Typing SVG" />
+  <!-- Typing header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=00F7FF&width=700&lines=🚀+Mark+Anthony+Garado+💻;🌟+Tech+Explorer+%26+Builder+✨" alt="Typing SVG" />
 </div>
 
-<p align="center" style="font-size:16px; line-height:1.6;">
+<p align="center" style="font-size:18px; line-height:1.8;">
   🌐 Web Development Enthusiast & Problem Solver <br/>
   ⚡ Focused on creating user-friendly, modern applications <br/>
   🚀 Exploring both Frontend & Backend technologies
 </p>
+
 
 <div align="center" style="border-bottom: 1px solid #ccc; margin: 24px 0;"></div>
 
