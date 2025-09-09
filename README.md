@@ -3,11 +3,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=700&color=00F7FF&width=700&lines=%F0%9F%92%BB+Mark+Anthony+Garado+%F0%9F%92%BB;%F0%9F%92%BB+Tech+Explorer+%26+Builder+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
+<div align="center" style="border-bottom: 1px solid #ccc; width: 60%; margin: 12px auto;"></div>
 
-<p align="center" style="font-size:18px; line-height:1.8;">
-  🌐 Web Development Enthusiast & Problem Solver <br/>
-  ⚡ Focused on creating user-friendly, modern applications <br/>
-  🚀 Exploring both Frontend & Backend technologies
+<p align="center" style="font-size:16px; line-height:1.8;">
+  • 🌐 Specializes in web development <br/>
+  • 💼 Builds projects to sharpen skills & portfolio <br/>
+  • 🚀 Explores both frontend & backend technologies <br/>
+  • 🖥️ Creates user-friendly, modern applications
 </p>
 
 
