@@ -12,7 +12,7 @@
 
 <br>
 <!-- Professional-looking thin horizontal line -->
-<div align="center" style="border-bottom: 1px solid #d1d5da; margin: 24px 0; width: 60%; opacity:0.4;"></div>
+<hr style="border: 0; border-top: 1px solid #d1d5da; opacity: 0.4; width: 60%; margin: 24px auto;">
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -32,7 +32,7 @@
 </p>
 
 <!-- Another subtle horizontal line to separate sections -->
-<div align="center" style="border-bottom: 1px solid #d1d5da; margin: 24px 0; width: 60%; opacity:0.4;"></div>
+<hr style="border: 0; border-top: 1px solid #d1d5da; opacity: 0.4; width: 60%; margin: 24px auto;">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codewmarx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
