@@ -5,13 +5,12 @@
 
 <div align="center" style="border-bottom: 1px solid #ccc; margin: 24px 0;"></div>
 
-<div align="center" style="font-size:16px; line-height:1.8;">
 - 🌐 Web Development Enthusiast <br/>
 - ⚡ Focused on creating user-friendly, modern applications <br/>
 - 🚀 Exploring both Frontend & Backend technologies <br/>
 - 🖥 Enjoys building clean, functional, and modern web apps  
-</div>
 
+<br>
 <!-- Professional-looking thin horizontal line -->
 <div align="center" style="border-bottom: 1px solid #d1d5da; margin: 24px 0; width: 60%; opacity:0.4;"></div>
 
