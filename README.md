@@ -5,24 +5,12 @@
 
 <div align="center" style="border-bottom: 1px solid #ccc; width: 60%; margin: 12px auto;"></div>
 
-<table align="center" style="font-size:16px; line-height:1.8; text-align:left;">
-  <tr>
-    <td align="center">🌐</td>
-    <td>Specializes in web development</td>
-  </tr>
-  <tr>
-    <td align="center">💼</td>
-    <td>Builds projects to sharpen skills & portfolio</td>
-  </tr>
-  <tr>
-    <td align="center">🚀</td>
-    <td>Explores both frontend & backend technologies</td>
-  </tr>
-  <tr>
-    <td align="center">🖥️</td>
-    <td>Creates user-friendly, modern applications</td>
-  </tr>
-</table>
+<p align="center" style="font-size:16px; line-height:1.8;">
+  • 🌐&nbsp;&nbsp;&nbsp;Specializes in web development <br/>
+  • 💼&nbsp;&nbsp;&nbsp;Builds projects to sharpen skills & portfolio <br/>
+  • 🚀&nbsp;&nbsp;&nbsp;Explores both frontend & backend technologies <br/>
+  • 🖥️&nbsp;&nbsp;&nbsp;Creates user-friendly, modern applications
+</p>
 
 <div align="center" style="border-bottom: 1px solid #ccc; margin: 24px 0;"></div>
 
