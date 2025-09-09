@@ -5,12 +5,12 @@
 
 <div align="center" style="border-bottom: 1px solid #ccc; width: 60%; margin: 12px auto;"></div>
 
-<p align="center" style="font-size:16px; line-height:1.8;">
-  • 🌐&nbsp;&nbsp;&nbsp;Specializes in web development <br/>
-  • 💼&nbsp;&nbsp;&nbsp;Builds projects to sharpen skills & portfolio <br/>
-  • 🚀&nbsp;&nbsp;&nbsp;Explores both frontend & backend technologies <br/>
-  • 🖥️&nbsp;&nbsp;&nbsp;Creates user-friendly, modern applications
-</p>
+<div align="center" style="font-size:16px; line-height:1.8;">
+  • 🌐 Specializes in web development <br/>
+  • 💼 Builds projects to sharpen skills & portfolio <br/>
+  • 🚀 Explores both frontend & backend technologies <br/>
+  • 🖥️ Creates user-friendly, modern applications
+</div>
 
 <div align="center" style="border-bottom: 1px solid #ccc; margin: 24px 0;"></div>
 
