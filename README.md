@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Typing header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=00F7FF&width=700&lines=🚀+Mark+Anthony+Garado+💻;🌟+Tech+Explorer+%26+Builder+✨" alt="Typing SVG" />
+  <!-- Typing header with emojis -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=00F7FF&width=700&lines=%F0%9F%9A%80+Mark+Anthony+Garado+%F0%9F%92%BB;%F0%9F%8C%9F+Tech+Explorer+%26+Builder+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <p align="center" style="font-size:18px; line-height:1.8;">
