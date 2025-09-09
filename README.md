@@ -1,7 +1,8 @@
 <div align="center">
-  <!-- Typing header with consistent premium emojis -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=700&color=00F7FF&width=700&lines=%E2%9C%85+Mark+Anthony+Garado+%E2%9C%85;%E2%9C%85+Tech+Explorer+%26+Builder+%E2%9C%85" alt="Typing SVG" />
+  <!-- Typing header with techy premium emojis -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=700&color=00F7FF&width=700&lines=%F0%9F%92%BB+Mark+Anthony+Garado+%F0%9F%92%BB;%F0%9F%92%BB+Tech+Explorer+%26+Builder+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
+
 
 <p align="center" style="font-size:18px; line-height:1.8;">
   🌐 Web Development Enthusiast & Problem Solver <br/>
