@@ -11,7 +11,7 @@
 - 🖥 Enjoys building clean, functional, and modern web apps  
 
 <!-- Professional-looking thin horizontal line -->
-<hr style="border: 0; border-top: 0.8px solid #d1d5da; opacity: 0.5; width: 60%; margin: 24px auto;">
+<hr style="border: 0; border-top: 0.4px solid #d1d5da; opacity: 0.5; width: 60%; margin: 24px auto;">
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
