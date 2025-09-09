@@ -10,7 +10,7 @@
 - 🚀 Exploring both Frontend & Backend technologies
 - 🖥 Enjoys building clean, functional, and modern web apps  
 
-<div align="center" style="border-bottom: 1px solid #ccc; margin: 24px 0;"></div>
+<div align="center" style="border-bottom: 1px solid #e1e4e8; margin: 20px 0; opacity: 0.6;"></div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<div align="center" style="border-bottom: 1px solid #ccc; margin: 24px 0;"></div>
+<div align="center" style="border-bottom: 1px solid #e1e4e8; margin: 20px 0; opacity: 0.6;"></div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codewmarx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
