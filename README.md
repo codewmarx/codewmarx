@@ -1,15 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&width=600&lines=Mark+Anthony+Garado;Tech+Explorer+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00F7FF&width=650&lines=Mark+Anthony+Garado;Tech+Explorer+%26+Builder" alt="Typing SVG" />
 </div>
 
-
-<p align="center">
+<p align="center" style="font-size:16px; line-height:1.6;">
   🌐 Web Development Enthusiast & Problem Solver <br/>
   ⚡ Focused on creating user-friendly, modern applications <br/>
   🚀 Exploring both Frontend & Backend technologies
 </p>
 
-<hr>
+<div align="center" style="border-bottom: 1px solid #ccc; margin: 24px 0;"></div>
 
 ## 🛠 Tech Stack
 
@@ -24,8 +23,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<hr>
-
+<div align="center" style="border-bottom: 1px solid #ccc; margin: 24px 0;"></div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codewmarx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -39,10 +37,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewmarx&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<hr>
+<div align="center" style="border-bottom: 1px solid #ccc; margin: 24px 0;"></div>
 
 ## ✨ About Me
 
 - 💡 Passionate about solving problems through technology  
 - 🖥 Enjoys building clean, functional, and modern web apps  
-- 📈 Believes in continuous growth and innovation  
+- 📈 Believes in continuous growth and innovation
