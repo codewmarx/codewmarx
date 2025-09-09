@@ -5,11 +5,9 @@
 
 <div align="center" style="border-bottom: 1px solid #ccc; width: 60%; margin: 12px auto;"></div>
 
-<p align="center" style="font-size:16px; line-height:1.6;">
-  🌐 Web Development Enthusiast & Problem Solver <br/>
-  ⚡ Focused on creating user-friendly, modern applications <br/>
-  🚀 Exploring both Frontend & Backend technologies
-</p>
+- 🌐 Web Development Enthusiast & Problem Solver  
+- ⚡ Focused on creating user-friendly, modern applications 
+- 🚀 Exploring both Frontend & Backend technologies
 
 <div align="center" style="border-bottom: 1px solid #ccc; margin: 24px 0;"></div>
 
