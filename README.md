@@ -13,10 +13,9 @@
 ---
 
 ### GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=codewmarx&show_icons=true&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewmarx&layout=compact&hide_border=true" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codewmarx&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> 
+</p> 
+<p align="center"> <img src="https://streak-stats.demolab.com?user=codewmarx&theme=tokyonight" alt="GitHub Streak" /> 
+</p>  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewmarx&layout=compact&theme=tokyonight" alt="Top Languages" /> 
+</p>"
