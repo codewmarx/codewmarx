@@ -1,9 +1,9 @@
 <h1 align="center">Mark Anthony Garado</h1>
 
 ### About Me
-- Focused on building clean, scalable web applications  
+- Focused on building clean, scalable, and functional web applications  
 - Interested in both frontend and backend development  
-- Enjoy creating simple, functional, and user-friendly systems  
+- Enjoy creating simple, intuitive, and user-friendly systems  
 
 ---
 
